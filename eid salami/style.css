@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+.bengali-font,
+body {
+    font-family: "Hind Siliguri", sans-serif;
+}
+
+.signature-font {
+    font-family: "Dancing Script", cursive;
+}
+
+.primary-color {
+    color: #e2136e;
+}
+
+.primary-bg {
+    background-color: #e2136e;
+}
+
+.primary-border {
+    border-color: #e2136e;
+}
+
+.primary-ring {
+    --tw-ring-color: #e2136e;
+}
+
+/* 
+.gold-gradient {
+    background: linear-gradient(45deg, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+} */
+
+.card-pattern {
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23e2136e' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+label {
+    font-weight: 500 !important;
+    margin-bottom: 3px !important;
+}
+
+.swal2-actions {
+    margin-top: 7px;
+}
+
+div#swal2-html-container {
+    padding: 0;
+}
+
+button.swal2-confirm.btn-custom {
+    padding: 6px 24px;
+}
+
+h2#swal2-title {
+    color: #cb1162;
+}
+
+button.swal2-confirm.btn-custom {
+    padding: 6px 24px;
+}
